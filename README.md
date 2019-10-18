@@ -1,0 +1,2 @@
+# rubymine
+Default RubyMine settings
